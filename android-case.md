@@ -18,7 +18,7 @@
 7. MOHON DIBACA DAN DITELITI DAN DIPELAJARI PUBLIC API TERSEBUT HINGGA DAPAT MENAMPILKAN CASE SESUAI YANG DIINGINKAN.
 8. Design pattern yang digunakan adalah MVVM
 9. Menggunakan clean architecture lebih baik
-10. Waktu pengerjaan default adalah 6 Jam, selesai atau tidak commit di Git Repository, Jika belum selesai lanjut saja hingga selesai dan commit lagi di Git Repository.
+10. Waktu pengerjaan default adalah 8 Jam, selesai atau tidak commit di Git Repository, Jika belum selesai lanjut saja hingga selesai dan commit lagi di Git Repository.
 11. Bahasa yang digunakan menggunakan KOTLIN
 
 ------
